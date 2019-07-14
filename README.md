@@ -6,8 +6,13 @@
 
 2. Connect o RaspberryPi
 
-From MAC/Linux:
-```
-ssh-keygen -R raspberrypi.local
-ssh pi@raspberrypi.local
-```
+    From MAC/Linux:
+    ```
+    ssh-keygen -R raspberrypi.local
+    ssh pi@raspberrypi.local
+    ```
+
+3. Shut down
+    ```
+    sudo shutdown -h now
+    ```
