@@ -2,12 +2,16 @@
 
 ## Hardware
 
-Connect the button to GND and a IO port. Connect the LED to a resistor, GND and another IO port. See references below.ss
+1. Connect the button to GND and a IO port. 2. Connect the LED to a resistor, GND and another IO port. See references below.
+
+![](project_01_wiring.png)
 
 References: 
-http://razzpisampler.oreilly.com/ch07.html 
-http://razzpisampler.oreilly.com/ch03.html#SEC7.1
 
+http://razzpisampler.oreilly.com/ch07.html 
+
+http://razzpisampler.oreilly.com/ch03.html#SEC7.1
+s
 
 ## Software
 1. Installation
@@ -26,3 +30,4 @@ sudo nano project_01.py
 ```
 sudo python project_01.py
 ```
+
